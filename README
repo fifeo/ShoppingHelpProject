@@ -9,29 +9,9 @@ The Shopping Help Project is designed to assist vintage bag enthusiasts in manag
 - **User-Friendly Interface**: Easy-to-use interface to add, edit, and delete saved searches.
 - **Cross-Site Compatibility**: Supports multiple vintage bag shopping websites.
 
-## Getting Started
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies.
-3. Run the application.
-
-## Installation
-1. Clone the repo:
-    ```sh
-    git clone https://github.com/yourusername/ShoppingHelpProject.git
-    ```
-2. Install dependencies:
-    ```sh
-    cd ShoppingHelpProject
-    npm install
-    ```
-3. Start the application:
-    ```sh
-    npm start
-    ```
-
 ## Usage
 1. Sign up or log in to your account.
-2. Add your saved searches from various vintage bag shopping sites.
+2. Add your saved searches from various shopping sites.
 3. Manage your searches and receive notifications when new listings match your criteria.
 
 ## Contributing
