@@ -1,0 +1,44 @@
+# Shopping Help Project
+
+## Overview
+The Shopping Help Project is designed to assist vintage bag enthusiasts in managing their online shopping experience. With multiple sites offering vintage bags, it can be challenging to keep track of all your saved searches and notifications. This project aims to centralize and streamline the process, allowing users to manage all their saved searches from one convenient location.
+
+## Features
+- **Centralized Search Management**: Manage all your saved searches from multiple vintage bag shopping sites in one place.
+- **Notifications**: Receive notifications when a new listing matches your saved searches.
+- **User-Friendly Interface**: Easy-to-use interface to add, edit, and delete saved searches.
+- **Cross-Site Compatibility**: Supports multiple vintage bag shopping websites.
+
+## Getting Started
+1. Clone the repository to your local machine.
+2. Install the necessary dependencies.
+3. Run the application.
+
+## Installation
+1. Clone the repo:
+    ```sh
+    git clone https://github.com/yourusername/ShoppingHelpProject.git
+    ```
+2. Install dependencies:
+    ```sh
+    cd ShoppingHelpProject
+    npm install
+    ```
+3. Start the application:
+    ```sh
+    npm start
+    ```
+
+## Usage
+1. Sign up or log in to your account.
+2. Add your saved searches from various vintage bag shopping sites.
+3. Manage your searches and receive notifications when new listings match your criteria.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any questions or suggestions, please contact [your email].
